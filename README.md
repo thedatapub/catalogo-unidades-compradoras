@@ -1,4 +1,4 @@
-# catalogo-unidades-compradoras
+# Catálogo de Unidades Compradoras de Dependencias Federales, Estatales y Municipales
 Listado de Unidades Compradoras de las Dependencias y Entidades del Gobierno Federal y de los Gobiernos Estatales y Municipales.
 
 Las unidades compradoras son los entes dentro de las dependencias que efectúan las adquisiciones para las dependencias a las cuales están adscritas.
